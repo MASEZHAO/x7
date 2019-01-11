@@ -14,6 +14,7 @@ public class AppTest {
     @Autowired
     private XxxTest xxxTest;
 
+
     @Test
     public void testAll(){
 
